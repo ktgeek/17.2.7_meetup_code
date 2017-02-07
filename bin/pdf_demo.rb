@@ -1,7 +1,6 @@
 #!/usr/bin/env ruby
 
 require 'prawn'
-require 'byebug'
 
 mp3s = File.read(ARGV[0]).split("\n")
 mp3s = mp3s.map do |filename|

@@ -8,5 +8,4 @@ gem 'tty-table'
 gem 'tty-spinner'
 gem 'tty-pager'
 gem 'prawn'
-gem 'byebug'
 
